@@ -1,0 +1,15 @@
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\Introducao_CSharp.exe
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\Introducao_CSharp.deps.json
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\Introducao_CSharp.runtimeconfig.json
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\Introducao_CSharp.dll
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\ref\Introducao_CSharp.dll
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\bin\Debug\net6.0\Introducao_CSharp.pdb
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.csproj.AssemblyReference.cache
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.AssemblyInfoInputs.cache
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.AssemblyInfo.cs
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.dll
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\ref\Introducao_CSharp.dll
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.pdb
+C:\Users\heitor.lima\Documents\Projetos .NET\Introducao_CSharp\Introducao_CSharp\Introducao_CSharp\obj\Debug\net6.0\Introducao_CSharp.genruntimeconfig.cache
